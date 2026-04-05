@@ -1,0 +1,2 @@
+Asset_ID,Asset_Type,Predicted_Timestamp_ms,Intercept_X,Intercept_Y,Intercept_Z,Time_To_Target_s,Response_Time_s,Distance_To_Target_m,Feasible_Intercept,Confidence_Score
+P8_POSEIDON,Airborne ASW,364359.5055078612,7788.243980997217,-268.4065862330825,-1799.6960573817476,35.952362467503406,33.30690125746236,3112.437583777828,True,0.07358240261491089

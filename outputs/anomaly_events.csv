@@ -1,0 +1,3 @@
+Event_Type,Timestamp_ms,Severity,Description
+Depth Excursion,328407.1430403578,0.8622483484900878,Abrupt dive or climb detected in smoothed depth profile.
+Depth Excursion,4218.183996922196,0.6995240235560678,Abrupt dive or climb detected in smoothed depth profile.

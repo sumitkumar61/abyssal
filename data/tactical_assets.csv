@@ -1,0 +1,4 @@
+Asset_ID,Asset_Type,Base_X_m,Base_Y_m,Base_Z_m,Max_Speed_knots,Launch_Delay_s,Detection_Radius_m
+P8_POSEIDON,Airborne ASW,9000.0,-2500.0,0.0,360.0,30.0,2500.0
+SSK_ARGUS,Interceptor Sub,-8200.0,-5400.0,-1200.0,28.0,120.0,900.0
+USV_TRIDENT,Surface Drone,7600.0,-1600.0,0.0,42.0,90.0,1200.0
